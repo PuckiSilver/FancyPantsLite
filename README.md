@@ -15,7 +15,23 @@ If you are already using fancyPants and are not using emissivity or animations, 
 
 - The **top left pixel of each texture** should be the **same color** the leather armor has **in-game**
 
-You can try out the textures provided in the template pack
+You can try out the textures provided in the template pack by giving yourself the armor with the following commands:
+```mcfunction
+give @s leather_helmet{display:{color:9983}}
+give @s leather_chestplate{display:{color:9983}}
+give @s leather_leggings{display:{color:9983}}
+give @s leather_boots{display:{color:9983}}
+
+give @s leather_helmet{display:{color:9983}}
+give @s leather_chestplate{display:{color:9983}}
+give @s leather_leggings{display:{color:9983}}
+give @s leather_boots{display:{color:9983}}
+
+give @s leather_helmet{display:{color:9983}}
+give @s leather_chestplate{display:{color:9983}}
+give @s leather_leggings{display:{color:9983}}
+give @s leather_boots{display:{color:9983}}
+```
 
 ## What it can't do
 - This shader doesn't provide a way to make armor emissive
