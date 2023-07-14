@@ -22,15 +22,15 @@ give @s leather_chestplate{display:{color:9983}}
 give @s leather_leggings{display:{color:9983}}
 give @s leather_boots{display:{color:9983}}
 
-give @s leather_helmet{display:{color:9983}}
-give @s leather_chestplate{display:{color:9983}}
-give @s leather_leggings{display:{color:9983}}
-give @s leather_boots{display:{color:9983}}
+give @s leather_helmet{display:{color:2359040}}
+give @s leather_chestplate{display:{color:2359040}}
+give @s leather_leggings{display:{color:2359040}}
+give @s leather_boots{display:{color:2359040}}
 
-give @s leather_helmet{display:{color:9983}}
-give @s leather_chestplate{display:{color:9983}}
-give @s leather_leggings{display:{color:9983}}
-give @s leather_boots{display:{color:9983}}
+give @s leather_helmet{display:{color:16713728}}
+give @s leather_chestplate{display:{color:16713728}}
+give @s leather_leggings{display:{color:16713728}}
+give @s leather_boots{display:{color:16713728}}
 ```
 
 ## What it can't do
